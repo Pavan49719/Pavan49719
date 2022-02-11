@@ -33,11 +33,6 @@
 </details>
 
   
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=Pavan49719&column=7&theme=gruvbox&no-frame=true"/>
-</details>
-  
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pavan49719&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
