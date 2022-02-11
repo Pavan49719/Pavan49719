@@ -3,7 +3,6 @@
 <h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <h3 align="left">Interests:</h3>
 
