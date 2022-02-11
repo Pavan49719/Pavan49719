@@ -9,13 +9,6 @@
 - App Development 👩‍💻
 - Data Structures And Algorithms 💻
 - Low and middle level programming
-
-<h3 align="left">Languages:</h3>
-
-- English
-- Hindi
-- Marathi
-
 <br><br>
 
   
