@@ -29,7 +29,7 @@
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Pavan49719&theme=chartreuse-dark" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Pavan49719&theme=chartreuse-dark&no-frame=false" /></p>
 </details>
 
   
