@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Pavan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Pavan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
 
 <h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
