@@ -1,8 +1,6 @@
-<h1 align="center">Hey there, I'm Pavan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&height=60&lines=Hi+there%2C+I'm+Pavan...;Flutter+Enthusiast...;An+Open+Contributor...)](https://git.io/typing-svg)
 
-<h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
-
-
+## Who am I?
 ```python
   class WhoAmI:
     user = 'Pavan Bhadane'
