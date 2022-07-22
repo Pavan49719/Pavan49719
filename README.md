@@ -23,13 +23,13 @@
     "Low and middle level programming"
     ]
     
-    def get_country():
+    def get_country(self):
       return "India"
       
-    def ambitions():
+    def ambitions(self):
       return "Attain Spiritual Enlightenment"
       
-    def current_status():
+    def current_status(self):
       return "Looking forward to collaborate on Open Source Projects"
  ```
 
