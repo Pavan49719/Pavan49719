@@ -3,13 +3,38 @@
 <h3 align="center">Flutter Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 
+```python
+  class WhoAmI:
+    user = 'Pavan Bhadane'
+    current_education = "Computer Engineering"
+    currently_learning = "Blockchain"
+    
+    hobbies = [ 
+      'Reading',
+      'Gaming',
+      'Cricket',
+      'Table tennis'
+      ]
+      
+    interests = [
+    "App Development",
+    "Data Structures And Algorithms",
+    "competitive coding",
+    "Low and middle level programming"
+    ]
+    
+    def getCountry():
+      return "India"
+      
+    def Ambitions():
+      return "Attain Spiritual Enlightenment"
+      
+    def CurrentStatus():
+      return "Looking forward to collaborate on Open Source Projects"
+ ```
 
-<h3 align="left">Interests:</h3>
 
-- App Development 👩‍💻
-- Data Structures And Algorithms 💻
-- Low and middle level programming
-<br><br>
+
 
   
 ## &#x1f4c8; My GitHub Stats🎯
