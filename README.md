@@ -1,5 +1,3 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&height=60&lines=Hi+there%2C+I'm+Pavan...;Flutter+Enthusiast...;An+Open+Contributor...)](https://git.io/typing-svg)
-
 ## Who am I?
 ```python
   class WhoAmI:
